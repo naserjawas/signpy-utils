@@ -5,7 +5,6 @@ author: naserjawas
 date: 14 December 2023
 """
 
-import os
 import csv
 import pickle
 import argparse
