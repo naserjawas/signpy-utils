@@ -1,3 +1,3 @@
 # signpy-utils
 
-In this repository contains any utility file from my PhD study.
+This repository contains any utility codes from my PhD study.
